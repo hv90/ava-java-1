@@ -1,4 +1,4 @@
-# Projeto Java: Classe Computador
+# Projeto Java: Classe Computador [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17059616.svg)](https://doi.org/10.5281/zenodo.17059616)
 
 Este projeto é uma aplicação em Java que implementa a classe `Computador`, demonstrando conceitos de **POO (Programação Orientada a Objetos)**, incluindo **construtores**, **getters**, **setters** e **testes unitários com JUnit 5**.
 
